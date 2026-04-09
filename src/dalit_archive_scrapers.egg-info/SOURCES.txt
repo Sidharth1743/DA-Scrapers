@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/dalit_archive_scrapers/__init__.py
+src/dalit_archive_scrapers/definitions.py
+src/dalit_archive_scrapers/extractor.py
+src/dalit_archive_scrapers/models.py
+src/dalit_archive_scrapers/runner.py
+src/dalit_archive_scrapers/utils.py
+src/dalit_archive_scrapers.egg-info/PKG-INFO
+src/dalit_archive_scrapers.egg-info/SOURCES.txt
+src/dalit_archive_scrapers.egg-info/dependency_links.txt
+src/dalit_archive_scrapers.egg-info/entry_points.txt
+src/dalit_archive_scrapers.egg-info/requires.txt
+src/dalit_archive_scrapers.egg-info/top_level.txt
+tests/test_utils.py

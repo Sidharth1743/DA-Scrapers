@@ -1,0 +1,630 @@
+[
+  {
+    "record_id": "parliament-digital-library-text-of-lok-sabha-debates",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Text of Lok Sabha Debates",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Text of Lok Sabha Debates The official report of the proceedings of Lok Sabha is prepared, published and printed by the Lok Sabha Secretariat. The text of debate of each day sitting from 1st to 17th Lok Sabha is part of this collection. Disclaimer Collection(s) Lok Sabha Debates (Text) Lok Sabha Debates (Uncorrected) Text of Debates (English) Browse × Disclaimer The Lok Sabha Debates are not for publication and are put on Internet solely for purpose of immediate general information in the public interest. Parliamentary copyright: All Parliamentary copyrights are reserved. Individuals are authorised to use the content solely for their individual use, i.e., private study, research, and instructional or educational purposes. Copyright and Use: Permission of the Speaker, Lok Sabha is required for any reproduction from the content of this collection. Suitable acknowledgement is required to be made of the source institution and PDL website. There must be faithful verbatim reproduction, no editing etc. is allowed of the matter for which permission is granted. Users are requested to supply to Editorial Branch, Lok Sabha Secretariat, Parliament House Annexe, two copies of the work in which reproduction from the content of this collection is made with the permission of Speaker, Lok Sabha. Without the written permission of the relevant copyright holder (Lok Sabha Secretariat), no part of these web pages may be published in any medium or transmitted to, or stored in, any publicly accessible website or other form of electronic retrieval system, nor accessed in such a manner as to make them appear part of any third party's website or electronic database or retrieval system. The permission to reproduce from the Debates would afford no protection against any legal proceedings that may arise out of such reproduction. Printed copies of the Lok Sabha Debates are available from Sales Section, Parliament House Annexe, New Delhi. Officers responsible for supply of the information for the Lok Sabha Debates Name Telephone Email 23034508 editorial.ls[at]sansad[dot]nic[dot]in Close This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/6",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:33.288212+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-lok-sabha-debates-text",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Lok Sabha Debates (Text)",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Lok Sabha Debates (Text) The digitized copy of various available versions Lok Sabha debates from 1 st to 18 th Lok Sabha from 1952 to 2025 are placed here under various collections for browsing and searching through various filters. ? Go! Browse Collection's Items (Sorted by Date in Descending order): 1 to 20 of 6452 next > Date Title Type View 19-Dec-2025 Lok Sabha Debates Full Text View... 8-Dec-2025 Lok Sabha Debates Full Text View... 5-Dec-2025 Lok Sabha Debates Full Text View... 4-Dec-2025 Lok Sabha Debates Full Text View... 3-Dec-2025 Lok Sabha Debates Full Text View... 2-Dec-2025 Lok Sabha Debates Full Text View... 1-Dec-2025 Lok Sabha Debates Full Text View... 21-Aug-2025 Lok Sabha Debates Full Text View... 20-Aug-2025 Lok Sabha Debates Full Text View... 19-Aug-2025 Lok Sabha Debates Full Text View... 18-Aug-2025 Lok Sabha Debates Full Text View... 12-Aug-2025 Lok Sabha Debates Full Text View... 11-Aug-2025 Lok Sabha Debates Full Text View... 8-Aug-2025 Lok Sabha Debates Full Text View... 7-Aug-2025 Lok Sabha Debates Full Text View... 6-Aug-2025 Lok Sabha Debates Full Text View... 5-Aug-2025 Lok Sabha Debates Full Text View... 4-Aug-2025 Lok Sabha Debates Full Text View... 1-Aug-2025 Lok Sabha Debates Full Text View... 31-Jul-2025 Lok Sabha Debates Full Text View... Collection's Items (Sorted by Date in Descending order): 1 to 20 of 6452 next > Discover Type 6452 Full Text Lok Sabha Number 677 01 610 05 583 02 577 03 468 04 . next > Date 311 2020 - 2025 691 2010 - 2019 716 2000 - 2009 722 1990 - 1999 829 1980 - 1989 996 1970 - 1979 1168 1960 - 1969 1019 1952 - 1959 Title 6440 Lok Sabha Debates 4 Lok Sabha Debates (Special Sittin... 3 Lok Sabha Debates (Joint Sitting ... 2 Lok Sabha Debates (Special Sittin... 1 Lok Sabha Debates (Joint Sitting... . next > This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/7",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-text/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-text/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-text/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-text/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-text/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:37.494286+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-text-of-debates-english",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Text of Debates (English)",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Text of Debates (English) The official report of the proceedings of Lok Sabha is prepared, published and printed by the Lok Sabha Secretariat. The English version of the text of debate of each day sitting from 8th to 16th Lok Sabha is part of this collection. The remaining debates will be published in due course of time. ? Go! Browse Collection's Items (Sorted by Date in Descending order): 1 to 20 of 2537 next > Date Title Type View 1-Feb-2025 Lok Sabha Debates Full Text View... 31-Jan-2025 Lok Sabha Debates Full Text View... 27-Nov-2024 Lok Sabha Debates Full Text View... 25-Nov-2024 Lok Sabha Debates Full Text View... 9-Aug-2024 Lok Sabha Debates Full Text View... 8-Aug-2024 Lok Sabha Debates Full Text View... 2-Aug-2024 Lok Sabha Debates Full Text View... 26-Jul-2024 Lok Sabha Debates Full Text View... 25-Jul-2024 Lok Sabha Debates Full Text View... 23-Jul-2024 Lok Sabha Debates Full Text View... 2-Jul-2024 Lok Sabha Debates Full Text View... 1-Jul-2024 Lok Sabha Debates Full Text View... 28-Jun-2024 Lok Sabha Debates Full Text View... 27-Jun-2024 Lok Sabha Debates Full Text View... 26-Jun-2024 Lok Sabha Debates Full Text View... 25-Jun-2024 Lok Sabha Debates Full Text View... 24-Jun-2024 Lok Sabha Debates Full Text View... 1-Feb-2024 Lok Sabha Debates Full Text View... 15-Dec-2023 Lok Sabha Debates Full Text View... 14-Dec-2023 Lok Sabha Debates Full Text View... Collection's Items (Sorted by Date in Descending order): 1 to 20 of 2537 next > Discover Type 2537 Full Text Lok Sabha Number 485 08 423 10 357 13 357 15 332 14 . next > Date 111 2020 - 2025 453 2010 - 2019 716 2000 - 2009 763 1990 - 1999 494 1985 - 1989 Title 2530 Lok Sabha Debates 6 Lok Sabha Debates (Special Sittin... 1 Lok Sabha Debates (Joint Sitting ... This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/2963706",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-debates-english/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-debates-english/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-debates-english/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-debates-english/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-debates-english/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:40.716362+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-text-of-lok-sabha-debates-hindi",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Text of Lok Sabha Debates (Hindi)",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Text of Lok Sabha Debates (Hindi) लोक सभा सचिवालय द्वारा सभा की कार्यवाही का आधिकारिक वृत्तान्‍त अर्थात् लोक सभा वाद-विवाद तैयार करके इसे प्रकाशित करता है । पिछली लोक सभाओं के वाद-विवाद का हिन्दी पाठ इस संग्रह में उपलब्ध है। Collection(s) Lok Sabha Debates (Hindi) Browse × Disclaimer The Lok Sabha Debates are not for publication and are put on Internet solely for purpose of immediate general information in the public interest. Parliamentary copyright: All Parliamentary copyrights are reserved. Individuals are authorised to use the content solely for their individual use, i.e., private study, research, and instructional or educational purposes. Copyright and Use: Permission of the Speaker, Lok Sabha is required for any reproduction from the content of this collection. Suitable acknowledgement is required to be made of the source institution and PDL website. There must be faithful verbatim reproduction, no editing etc. is allowed of the matter for which permission is granted. Users are requested to supply to Editorial Branch, Lok Sabha Secretariat, Parliament House Annexe, two copies of the work in which reproduction from the content of this collection is made with the permission of Speaker, Lok Sabha. Without the written permission of the relevant copyright holder (Lok Sabha Secretariat), no part of these web pages may be published in any medium or transmitted to, or stored in, any publicly accessible website or other form of electronic retrieval system, nor accessed in such a manner as to make them appear part of any third party's website or electronic database or retrieval system. The permission to reproduce from the Debates would afford no protection against any legal proceedings that may arise out of such reproduction. Printed copies of the Lok Sabha Debates are available from Sales Section, Parliament House Annexe, New Delhi. Officers responsible for supply of the information for the Lok Sabha Debates Name Telephone Email 23034508 editorial.ls[at]sansad[dot]nic[dot]in Close This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/796090",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates-hindi/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates-hindi/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates-hindi/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates-hindi/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-text-of-lok-sabha-debates-hindi/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:44.384352+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-lok-sabha-debates-uncorrected",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Lok Sabha Debates (Uncorrected)",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Lok Sabha Debates (Uncorrected) The Original Version i.e. the verbatim reports of Lok Sabha Debates is available on Lok Sabha Website under the heading Uncorrected Debates. The Uncorrected Debates are released onto the Homepage on the next day for the use of the members, media persons, researchers and the public at large. ? Go! Browse Collection's Items (Sorted by Date in Descending order): 1 to 20 of 140 next > Date Title Type View 13-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 12-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 11-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 10-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 9-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 6-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 5-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 4-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 3-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 2-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 1-Feb-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 29-Jan-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 28-Jan-2026 Lok Sabha Debates (Uncorrected) Uncorrected View... 19-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... 18-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... 17-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... 16-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... 15-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... 12-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... 11-Dec-2025 Lok Sabha Debates (Uncorrected) Uncorrected View... Collection's Items (Sorted by Date in Descending order): 1 to 20 of 140 next > Discover Type 140 Uncorrected Lok Sabha Number 117 18 23 17 Date 62 2025 51 2024 14 2023 13 2026 Title 140 Lok Sabha Debates (Uncorrected) This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/2953354",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-uncorrected/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-uncorrected/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-uncorrected/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-uncorrected/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-lok-sabha-debates-uncorrected/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:47.110216+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-debate-by-titles-and-members",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Debate by Titles and Members",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Debate by Titles and Members The digitized debates of Lok Sabha placed under Text of Debates have further been categorized/tagged through detailed metadata to provide specific information by Title / Member / Question Type / Ministry Name / Debate Type / Member Participation, etc. Its two sub collections are Part I and Part II. a) Part I ( Lok Sabha Questions) In this collection, Questions and Answers asked and answered on the floor the House in Lok Sabha can be browsed and searched from the categorized data filtered by Lok Sabha number, session number, date, question type, member’s participation, and ministry wise. b) Part II (Other than Questions Answer) In this collection, the discussions held on floor of the house from 1st Lok Sabha to 17th Lok Sabha can be browsed and searched from the categorized data filtered by Lok Sabha number, session number, date, debate type, member’s participation, and title wise. Collection(s) Part 1 (Questions And Answers) Part 2 (Other than Questions And Answers) PM Speeches Browse × Disclaimer The Lok Sabha Debates are not for publication and are put on Internet solely for purpose of immediate general information in the public interest. Parliamentary copyright: All Parliamentary copyrights are reserved. Individuals are authorised to use the content solely for their individual use, i.e., private study, research, and instructional or educational purposes. Copyright and Use: Permission of the Speaker, Lok Sabha is required for any reproduction from the content of this collection. Suitable acknowledgement is required to be made of the source institution and PDL website. There must be faithful verbatim reproduction, no editing etc. is allowed of the matter for which permission is granted. Users are requested to supply to Editorial Branch, Lok Sabha Secretariat, Parliament House Annexe, two copies of the work in which reproduction from the content of this collection is made with the permission of Speaker, Lok Sabha. Without the written permission of the relevant copyright holder (Lok Sabha Secretariat), no part of these web pages may be published in any medium or transmitted to, or stored in, any publicly accessible website or other form of electronic retrieval system, nor accessed in such a manner as to make them appear part of any third party's website or electronic database or retrieval system. The permission to reproduce from the Debates would afford no protection against any legal proceedings that may arise out of such reproduction. Printed copies of the Lok Sabha Debates are available from Sales Section, Parliament House Annexe, New Delhi. Officers responsible for supply of the information for the Lok Sabha Debates Name Telephone Email 23034508 editorial.ls[at]sansad[dot]nic[dot]in Close This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/8",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-debate-by-titles-and-members/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-debate-by-titles-and-members/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-debate-by-titles-and-members/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-debate-by-titles-and-members/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-debate-by-titles-and-members/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:50.234287+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-parliamentary-documents",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Parliamentary Documents",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Parliamentary Documents One of the basic postulates of representative democracy is to see that governance is carried out according to the wishes of the people. In this context, Parliamentary control over the Executive assumes greater significance. It is aimed at ensuring that the Government delivers and performs to the best of the ability for public good. The two most significant occasions for review of administration are provided by discussion on the Motion of Thanks on the President Address and the Budget. Along with these, a close and continuous check on governmental activities is exercised by Parliamentary Committees. The other collections provided in this collection are Bulletin Part I, II and Resume of the Work by Lok Sabha. Collection(s) Budget Speeches Lok Sabha Bulletin I Lok Sabha Bulletin II Parliamentary Committee Reports Presidential Addresses Resume of Work Done by Lok Sabha Browse × Disclaimer The Lok Sabha Debates are not for publication and are put on Internet solely for purpose of immediate general information in the public interest. Parliamentary copyright: All Parliamentary copyrights are reserved. Individuals are authorised to use the content solely for their individual use, i.e., private study, research, and instructional or educational purposes. Copyright and Use: Permission of the Speaker, Lok Sabha is required for any reproduction from the content of this collection. Suitable acknowledgement is required to be made of the source institution and PDL website. There must be faithful verbatim reproduction, no editing etc. is allowed of the matter for which permission is granted. Users are requested to supply to Editorial Branch, Lok Sabha Secretariat, Parliament House Annexe, two copies of the work in which reproduction from the content of this collection is made with the permission of Speaker, Lok Sabha. Without the written permission of the relevant copyright holder (Lok Sabha Secretariat), no part of these web pages may be published in any medium or transmitted to, or stored in, any publicly accessible website or other form of electronic retrieval system, nor accessed in such a manner as to make them appear part of any third party's website or electronic database or retrieval system. The permission to reproduce from the Debates would afford no protection against any legal proceedings that may arise out of such reproduction. Printed copies of the Lok Sabha Debates are available from Sales Section, Parliament House Annexe, New Delhi. Officers responsible for supply of the information for the Lok Sabha Debates Name Telephone Email 23034508 editorial.ls[at]sansad[dot]nic[dot]in Close This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/11",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-documents/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-documents/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-documents/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-documents/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-documents/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:53.960361+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-presidential-addresses",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Presidential Addresses",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Presidential Addresses At the commencement of the First Session after each general election to the House of the People, that is, Lok Sabha and at the commencement of the First Session of each year, it is one of the constitutional functions of the President to address both Houses of Parliament assembled together and inform Parliament of the causes of its summon. All the Presidential Addresses from 1950 onwards can be browsed by title and date. ? Go! Browse Collection's Items (Sorted by Date in Descending order): 1 to 20 of 181 next > Date Title Type View 28-Jan-2026 Address by President of India, Smt. Droupadi Murmu to Parliament (Hindi) Presidential Address View... 28-Jan-2026 Address by President of India, Smt. Droupadi Murmu to Parliament Presidential Address View... 31-Jan-2025 Address by President of India, Smt. Droupadi Murmu to Parliament (Hindi) Presidential Address View... 31-Jan-2025 Address by President of India, Smt. Droupadi Murmu to Parliament Presidential Address View... 26-Nov-2024 Address by President of India, Smt. Droupadi Murmu to Parliament (Hindi) Presidential Address View... 26-Nov-2024 Address by President of India, Smt. Droupadi Murmu to Parliament Presidential Address View... 27-Jun-2024 Address by President of India, Smt. Droupadi Murmu to Parliament (Hindi) Presidential Address View... 27-Jun-2024 Address by President of India, Smt. Droupadi Murmu to Parliament Presidential Address View... 31-Jan-2024 Address by President of India, Smt. Droupadi Murmu to Parliament (Hindi) Presidential Address View... 31-Jan-2024 Address by President of India, Smt. Droupadi Murmu to Parliament Presidential Address View... 31-Jan-2023 Address by President of India, Smt. Droupadi Murmu to Parliament Presidential Address View... 31-Jan-2023 Address by President of India, Smt. Droupadi Murmu to Parliament (Hindi) Presidential Address View... 31-Jan-2022 Address by President of India, Shri Ram Nath Kovind to Parliament Presidential Address View... 31-Jan-2022 Address by President of India, Shri Ram Nath Kovind to Parliament (Hindi) Presidential Address View... 29-Jan-2021 Address by President of India, Shri Ram Nath Kovind to the Parliament (Hindi) Presidential Address View... 29-Jan-2021 Address by President of India, Shri Ram Nath Kovind to Parliament Presidential Address View... 31-Jan-2020 Address by President of India, Shri Ram Nath Kovind to the Parliament (Hindi) Presidential Address View... 31-Jan-2020 Address by President of India, Shri Ram Nath Kovind to Parliament Presidential Address View... 20-Jun-2019 Address by President of India, Shri Ram Nath Kovind to Parliament Presidential Address View... 20-Jun-2019 Address by President of India, Shri Ram Nath Kovind to Parliament (Hindi) Presidential Address View... Collection's Items (Sorted by Date in Descending order): 1 to 20 of 181 next > Discover Type 181 Presidential Address Date 18 2020 - 2026 22 2010 - 2019 22 2000 - 2009 26 1990 - 1999 22 1980 - 1989 20 1970 - 1979 22 1960 - 1969 28 1950 - 1959 Title 18 Address by President of India, Dr... 18 Address by President of India, Dr... 7 Address by President of India, Sh... 7 Address by President of India, Sh... 6 Address by President of India, Dr... . next > This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/14",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-presidential-addresses/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-presidential-addresses/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-presidential-addresses/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-presidential-addresses/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-presidential-addresses/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:08:57.614674+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-budget-speeches",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Budget Speeches",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Budget Speeches The speeches of various Finance Ministers and Railway Ministers are part of this collection. The Railways Budget till 2016 was presented as a separate Budget by the Railways Minister. It merged with the General Budget from the year 2017. ? Go! Browse Collection's Items (Sorted by Date in Descending order): 1 to 20 of 55 next > Date Title Type View 1-Feb-2026 Final Budget Speech of Finance for the Year 2026-27 given by Honourable Minister of Finance Smt. Nirmala Sitharaman (Hindi) General Budget View... 1-Feb-2026 Final Budget Speech of Finance for the Year 2026-27 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 1-Feb-2025 Final Budget Speech of Finance for the Year 2025-26 given by Honourable Minister of Finance Smt. Nirmala Sitharaman (Hindi) General Budget View... 1-Feb-2025 Final Budget Speech of Finance for the Year 2025-26 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 23-Jul-2024 Final Budget Speech of Finance for the Year 2024-25 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 23-Jul-2024 Final Budget Speech of Finance for the Year 2024-25 given by Honourable Minister of Finance Smt. Nirmala Sitharaman (Hindi) General Budget View... 1-Feb-2024 Interim Budget Speech of Finance for the Year 2024-25 given by Honourable Minister of Finance Smt. Nirmala Sitharaman (Hindi) General Budget View... 1-Feb-2024 Interim Budget Speech of Finance for the Year 2024-25 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 1-Feb-2023 Final Budget Speech of Finance for the Year 2023-24 given by Honourable Minister of Finance Smt. Nirmala Sitharaman (Hindi) General Budget View... 1-Feb-2023 Final Budget Speech of Finance for the Year 2023-24 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 1-Feb-2022 Final Budget Speech of Finance for the Year 2022-23 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 1-Feb-2022 Final Budget Speech of Finance for the Year 2022-23 given by Honourable Minister of Finance Smt. Nirmala Sitharaman(Hindi) General Budget View... 1-Feb-2021 Final Budget Speech of Finance for the Year 2021-22 given by Honourable Minister of Finance Smt. Nirmala Sitharaman(Hindi) General Budget View... 1-Feb-2021 Final Budget Speech of Finance for the Year 2021-22 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 1-Feb-2020 Final Budget Speech of Finance for the Year 2020-21 given by Honourable Minister of Finance Smt. Nirmala Sitharaman(Hindi) General Budget View... 1-Feb-2020 Final Budget Speech of Finance for the Year 2020-21 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 5-Jul-2019 Final Budget Speech of Finance for the Year 2019-20 given by Honourable Minister of Finance Smt. Nirmala Sitharaman General Budget View... 5-Jul-2019 Final Budget Speech of Finance for the Year 2019-20 given by Honourable Minister of Finance Smt. Nirmala Sitharaman (Hindi) General Budget View... 1-Feb-2019 Interim Budget Speech of Finance for the Year 2019-20 given by Honble Minister of Finance Shri Piyush Goyal General Budget View... 1-Feb-2019 Interim Budget Speech of Finance for the Year 2019-20 given by Honourable Minister of Finance Shri Piyush Goyal (Hindi) General Budget View... Collection's Items (Sorted by Date in Descending order): 1 to 20 of 55 next > Discover Type 40 General Budget 15 Railway Budget Date 16 2020 - 2026 23 2010 - 2019 2 2000 - 2009 4 1990 - 1999 4 1980 - 1989 2 1970 - 1979 3 1960 - 1969 1 1951 - 1959 Title 1 Budget Speech of Railway for the ... 1 Final Budget Speech of Finance f... 1 Final Budget Speech of Finance f... 1 Final Budget Speech of Finance f... 1 Final Budget Speech of Finance f... . next > This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/12",
+    "document_links": [
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-budget-speeches/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-budget-speeches/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-budget-speeches/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-budget-speeches/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-budget-speeches/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:09:02.114342+00:00",
+    "verification_notes": []
+  },
+  {
+    "record_id": "parliament-digital-library-parliamentary-committee-reports",
+    "source_id": "sansad_constituent_assembly_debates",
+    "source_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "listing_url": "https://eparlib.sansad.in/handle/123456789/4",
+    "page_type": "article",
+    "title": "Parliament Digital Library: Parliamentary Committee Reports",
+    "summary": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speech...",
+    "body_text": "Screen Reader Access | {{theDate}} | {{theTime}} | Home Lok Sabha Debates Text of Debates Text of Debates (English) Text of Debates (Hindi) Text of Debates (Uncorrected) Debate by Titles / Members Parliamentary Documents Presidential Addresses Budget Speeches Parliamentary Committee Reports Lok Sabha Rajya Sabha Resume of Work Done by Lok Sabha Lok Sabha Bulletin I Lok Sabha Bulletin II PM Speeches Historical Debates Provisional Parliament Debates Constituent Assembly-Draft Making Debates Full Text Search Constituent Assembly-Legislative Debates Council of States Debates Legislative Assembly Debates Indian Legislative Council Debates Indexes to Debates Publications Books Whos Who Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Keywords Date More Links.. Publications Books Information Bulletins Periodicals Explore By Collections Type Members Lok Sabha Number Ministry Debate Type Question Type Title Committee Name Date Useful Links Confidence Motion No-Confidence Motion Government Bills Go PDL Parliamentary Committee Reports This collection comprises digitized copies of various Parliamentary Committee Reports of Lok Sabha viz. Financial Committees, Departmentally Related Standing Committees, Other Parliamentary Standing Committees and Adhoc Committees. Read More ? Go! Browse Collection's Items (Sorted by Date in Descending order): 1 to 20 of 12694 next > Date Title Type View 17-Mar-2026 Thirty-Third Report of the Standing Committee on Finance (18th Lok Sabha) on 'Demands for Grants (2026-27)' of the Ministry of Finance (Departments of Economic Affairs, Expenditure, Public Enterprises and Investment & Public Asset Management). Departmentally Related Standing Committees View... 17-Mar-2026 Thirty-Fifth Report of the Standing Committee on Finance (18th Lok Sabha) on 'Demands for Grants (2026-27)' of the Ministry of Statistics and Programme Implementation. Departmentally Related Standing Committees View... 17-Mar-2026 Thirty-Fourth Report of the Standing Committee on Finance (18th Lok Sabha) on 'Demands for Grants (2026-27)' of the Ministry of Planning. Departmentally Related Standing Committees View... 17-Mar-2026 Twenty-Fifth Report of the Standing Committee on Communications and Information Technology (18th Lok Sabha) on Demands for Grants (2026-27) pertaining to the Ministry of Communications (Department of Posts). Departmentally Related Standing Committees View... 17-Mar-2026 Twenty-Sixth Report of the Standing Committee on Communications and Information Technology (18th Lok Sabha) on Demands for Grants (2026-27) pertaining to the Ministry of Information and Broadcasting. Departmentally Related Standing Committees View... 16-Mar-2026 Twenty-Third Report of the Standing Committee on Communications and Information Technology (18th Lok Sabha) on `Demands for Grants (2026-27) pertaining to the Ministry of Communications (Department of Telecommunications). Departmentally Related Standing Committees View... 16-Mar-2026 Twenty-Fourth Report of the Standing Committee on Communications and Information Technology (18th Lok Sabha) on Demands for Grants (2026-27) pertaining to the Ministry of Electronics and Information Technology. Departmentally Related Standing Committees View... 12-Mar-2026 Thirty-Second Report of the Standing Committee on Finance (18th Lok Sabha) on 'Demands for Grants (2026-27)' of the Ministry of Finance (Department of Financial Services). Departmentally Related Standing Committees View... 12-Mar-2026 Thirtieth Report of the Standing Committee on Finance (18th Lok Sabha) on Report on 'Demands for Grants (2026-27) of the Ministry of Finance (Department of Revenue). Departmentally Related Standing Committees View... 12-Mar-2026 Thirty-First Report of the Standing Committee on Finance (18th Lok Sabha) on Demands for Grants (2026-27) of the Ministry of Corporate Affairs Departmentally Related Standing Committees View... 12-Feb-2026 Fourth Report of Committee on Petitions (18th Lok Sabha) on Representation of Shri Parameswaran Krishna Iyer regarding levying of penal charges on non-maintenance of minimum balance in bank accounts Other Parliamentary Standing Committees View... 12-Feb-2026 Twenty-Ninth Report of the Standing Committee on Finance (18th Lok Sabha) on Action taken by he Government on the observations/recommendations contained in Twenty-Sixth Report (18th Lok Sabha) on the subject `Roadmap for Indian Economic Growth in light of Global Economic and Geopolitical Circumstances` pertaining to the Ministry of Finance (Department of Economic Affairs). Departmentally Related Standing Committees View... 10-Feb-2026 Eighteenth Report of the Standing Committee on Chemicals and Fertilizers (18th Lok Sabha) on Action Taken by the Government on the Observation/Recommendation contained in Thirteenth Report (18th Lok Sabha) on the subject 'Health hazards due to use of compromised/substandard quality of food-grade plastics and their exposure to extreme Indian climatic conditions' pertaining to the Ministry of Chemicals and Fertilizers (Department of Chemicals and Petrochemicals). Departmentally Related Standing Committees View... 10-Feb-2026 Seventeenth Report of the Standing Committee on Chemicals and Fertilizers (18th Lok Sabha) on Action Taken by the Government on the Observation/Recommendation contained in Seventh Report of the Standing Committee on Chemicals and Fertilizers (18th Lok Sabha) on 'Demands for Grants (2025-26)' pertaining to the Ministry of Chemicals and Fertilizers (Department of Chemicals and Petrochemicals). Departmentally Related Standing Committees View... 10-Feb-2026 Sixteenth Report of the Standing Committee on Chemicals and Fertilizers (18th Lok Sabha) on Action Taken by the Government on the Observation/Recommendation contained in the Sixth Report of the Standing Committee on Chemicals and Fertilizers (18th Lok Sabha) on 'Demands for Grants (2025-26)' pertaining to the Ministry of Chemicals and Fertilizers (Department of Fertilizers). Departmentally Related Standing Committees View... 10-Feb-2026 Nineteenth Report of the Standing Committee on Chemicals and Fertilizers (18th Lok Sabha) on the subject Review of the functioning of Institute of Pesticide Formulation Technology (IPFT) pertaining to the Ministry of Chemicals and Fertilizers (Department of Chemicals and Petrochemicals). Departmentally Related Standing Committees View... 4-Feb-2026 Thirty-Seventh Report of the Public Accounts Committee (18th Lok Sabha) on \"Short Collection of Fees due to Application of Incorrect Exchange Rate in Fixing the Fees for Overseas Citizenship of India Card Scheme and Irregularities in Setting up of Indian Cultural Centres by Indian Missions at Washington and Paris pertaining to the Ministry of External Affairs Financial Committees View... 4-Feb-2026 Thirty-Eighth Report of the Public Accounts Committee (18th Lok Sabha) on Action Taken by the Government on the Observations/ Recommendations of the Public Accounts Committee contained in their Seventy Eighth Report (Seventeenth Lok Sabha) on Performance Audit of Agriculture Crop Insurance Scheme Financial Committees View... 4-Feb-2026 Thirty-Sixth Report of the Public Accounts Committee (18th Lok Sabha) on \"Punctuality and Travel Time in Train Operations in Indian Railways\" pertaining to the Ministry of Railways Financial Committees View... 2-Feb-2026 Fourteenth Report of the Business Advisory Committee (18th Lok Sabha) Other Parliamentary Standing Committees View... Collection's Items (Sorted by Date in Descending order): 1 to 20 of 12694 next > Discover Type 4223 Other Parliamentary Standing Comm... 4054 Departmentally Related Standing C... 3685 Financial Committees 483 Joint/Select Committees 242 Adhoc Committees . next > Lok Sabha Number 1572 17 1463 16 1170 15 1091 14 927 13 . next > Date 6609 2000 - 2026 6078 1920 - 1999 Committee Name 1903 Public Accounts Committee 1069 Estimates Committee 817 Committee on Private Members Bill... 746 Business Advisory Committee 713 Committee on Public Undertakings . next > Title 12 First Report of Committee on Peti... 12 Fourth Report of Committee on Sub... 11 First Report of Joint Committee o... 11 Fourth Report of Committee on Pet... 11 Seventh Report of Committee on Pe... . next > This site is best viewed at 1024x768 pixel resolution and above For search query to be auto highlighted in pdf file, view site in Mozilla Firefox V.55 and above Last Modified on: About Us Dashboard FAQs User Guide Sitemap Contact Us Disclaimer Feedback Terms & Conditions Hyperlinking Policy Accessibility Statement Copyright Policy Site designed and hosted by National Informatics Centre Contents provided and maintained by Digitisation Unit, Lok Sabha Secretariat Visitor's Count:",
+    "author": null,
+    "published_at": null,
+    "tags": [],
+    "record_url": "https://eparlib.sansad.in/handle/123456789/13",
+    "document_links": [
+      "https://eparlib.sansad.in/help/pcr_readmore.pdf",
+      "https://eparlib.sansad.in/help/help_doc.pdf"
+    ],
+    "image_links": [
+      "https://eparlib.sansad.in/static/images/font_decrease.gif",
+      "https://eparlib.sansad.in/static/images/font_normal.gif",
+      "https://eparlib.sansad.in/static/images/font_standard.gif",
+      "https://eparlib.sansad.in/static/images/font_high.gif"
+    ],
+    "downloaded_assets": [
+      {
+        "source_url": "https://eparlib.sansad.in/help/pcr_readmore.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-committee-reports/pcr-readmore.pdf",
+        "content_type": "application/pdf",
+        "sha256": "f2ef2c50b720aaaa8ce52c919321cda3aca93d0c76b54cfda23a4d277a98e3ba",
+        "size_bytes": 10746
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/help/help_doc.pdf",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-committee-reports/help-doc.pdf",
+        "content_type": "application/pdf",
+        "sha256": "11e1a079198649bd35313c397ad8b54dc827eb11ca1e79e3e36f3d2d2b2bd459",
+        "size_bytes": 575622
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_decrease.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-committee-reports/font-decrease.gif",
+        "content_type": "image/gif",
+        "sha256": "faa850561c9b206df00dce5558af023a8243f99f24c5292ef9bf65f2bbef1972",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_normal.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-committee-reports/font-normal.gif",
+        "content_type": "image/gif",
+        "sha256": "fdcfd81a6b8e7aa52dbc04386c9294181406828632a7feb538ebee47263035c5",
+        "size_bytes": 305
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_standard.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-committee-reports/font-standard.gif",
+        "content_type": "image/gif",
+        "sha256": "7d731533f6cbebc7eb39beaf4df9a820fb18e10a2e209a9ca877b5887b2c02a9",
+        "size_bytes": 308
+      },
+      {
+        "source_url": "https://eparlib.sansad.in/static/images/font_high.gif",
+        "saved_path": "/home/sidharth/Desktop/DalitArchive/Scrapers/output/sansad_constituent_assembly_debates/assets/parliament-digital-library-parliamentary-committee-reports/font-high.gif",
+        "content_type": "image/gif",
+        "sha256": "04f5ecba2219300b366d8f6363ae5b1827eb2da863803693b8fd9d0773cf28ef",
+        "size_bytes": 330
+      }
+    ],
+    "scraped_at": "2026-04-08T16:09:05.715102+00:00",
+    "verification_notes": []
+  }
+]

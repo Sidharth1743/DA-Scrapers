@@ -1,0 +1,2 @@
+[console_scripts]
+dalit-scrapers = dalit_archive_scrapers.runner:main

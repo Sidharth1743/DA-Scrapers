@@ -1,0 +1,11 @@
+{
+  "source_id": "scroll_search_dalits",
+  "source_url": "https://scroll.in/search?q=Dalits&page=1",
+  "record_count": 1,
+  "errors": [],
+  "verification_notes": [],
+  "fetch_log": [
+    "static:https://scroll.in/search?q=Dalits&page=1"
+  ],
+  "written_at": "2026-04-08T16:09:20.214502+00:00"
+}

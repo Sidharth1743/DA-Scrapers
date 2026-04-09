@@ -1,0 +1,21 @@
+{
+  "source_id": "epw_search_dalit",
+  "source_url": "https://www.epw.in/search?epw_input=dalit",
+  "record_count": 10,
+  "errors": [],
+  "verification_notes": [],
+  "fetch_log": [
+    "dynamic:https://www.epw.in/search?epw_input=dalit",
+    "dynamic:https://www.epw.in/journal/2026/14/book-reviews/intimate-revolts.html",
+    "dynamic:https://www.epw.in/journal/2026/13/book-reviews/putting-studies-dalit-history-work.html",
+    "dynamic:https://www.epw.in/journal/2026/12/special-articles/obcs-adivasis-and-persian-cosmopolis-indias.html",
+    "dynamic:https://www.epw.in/journal/2026/1/book-reviews/urban-dalit-mobilities.html",
+    "dynamic:https://www.epw.in/journal/2026/1/book-reviews/gender-and-caste.html",
+    "dynamic:https://www.epw.in/journal/2025/51/book-reviews/towards-humanistic-and-inclusive-ecological.html",
+    "dynamic:https://www.epw.in/journal/2025/51/special-articles/dalit-entrepreneurship-public-policy.html",
+    "dynamic:https://www.epw.in/journal/review-rural-affairs/caste-water-and-political-ecology-drought.html",
+    "dynamic:https://www.epw.in/journal/2025/48/special-articles/entitlement-versus-exploitation.html",
+    "dynamic:https://www.epw.in/journal/2025/47/book-reviews/dalit-politics-transition.html"
+  ],
+  "written_at": "2026-04-08T16:05:31.520271+00:00"
+}

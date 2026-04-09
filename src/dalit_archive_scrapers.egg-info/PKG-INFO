@@ -1,0 +1,42 @@
+Metadata-Version: 2.4
+Name: dalit-archive-scrapers
+Version: 0.1.0
+Summary: Sequential Scrapling-based scrapers for Dalit archive source URLs.
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: scrapling[fetchers]>=0.4.5
+Provides-Extra: dev
+Requires-Dist: pytest>=9.0.0; extra == "dev"
+
+# Dalit Archive Scrapers
+
+This project processes the URLs in `list.txt` one by one using `scrapling`.
+
+## Setup
+
+```bash
+python3 -m venv .venv
+.venv/bin/pip install -e '.[dev]'
+```
+
+## Usage
+
+Run every configured source in `list.txt`:
+
+```bash
+.venv/bin/dalit-scrapers run-all
+```
+
+Run one configured source by its URL:
+
+```bash
+.venv/bin/dalit-scrapers run-one --url 'https://www.epw.in/search?epw_input=dalit'
+```
+
+Verify the latest saved output for one source:
+
+```bash
+.venv/bin/dalit-scrapers verify-one --url 'https://www.epw.in/search?epw_input=dalit'
+```
+
+Outputs are written under `output/<source_id>/`.

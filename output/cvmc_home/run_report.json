@@ -1,0 +1,20 @@
+{
+  "source_id": "cvmc_home",
+  "source_url": "https://www.cvmc.in/",
+  "record_count": 9,
+  "errors": [],
+  "verification_notes": [],
+  "fetch_log": [
+    "static:https://www.cvmc.in/",
+    "static:https://www.cvmc.in/act/",
+    "static:https://www.cvmc.in/relief/",
+    "static:https://www.cvmc.in/resources/",
+    "static:https://www.cvmc.in/india/",
+    "static:https://www.cvmc.in/karnataka/",
+    "static:https://www.cvmc.in/tamil-nadu/",
+    "static:https://www.cvmc.in/states/",
+    "static:https://www.cvmc.in/faqs/",
+    "static:https://www.cvmc.in/about/"
+  ],
+  "written_at": "2026-04-08T17:12:45.173924+00:00"
+}

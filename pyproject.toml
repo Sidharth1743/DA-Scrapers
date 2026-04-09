@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dalit-archive-scrapers"
+version = "0.1.0"
+description = "Sequential Scrapling-based scrapers for Dalit archive source URLs."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "scrapling[fetchers]>=0.4.5",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=9.0.0",
+]
+
+[project.scripts]
+dalit-scrapers = "dalit_archive_scrapers.runner:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

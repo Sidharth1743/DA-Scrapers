@@ -1,0 +1,4 @@
+scrapling[fetchers]>=0.4.5
+
+[dev]
+pytest>=9.0.0
